@@ -50,7 +50,8 @@ body {
     box-shadow: 4px 4px 0
     #1a1a1a;
     transition:
-    transform .1s;
+    transform .1s,
+    box-shadow .1s;
 }
 .Left a:active {
     box-shadow: 1px 1px 0
