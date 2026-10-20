@@ -58,3 +58,11 @@ body {
     transform:
     translate(3px, 3px);
 }
+@media (max-width: 380px) {
+    .Top {
+        padding: 2% 5% 2% 0;
+    }
+    .Left {
+        padding-left: 5%;
+    }
+}
