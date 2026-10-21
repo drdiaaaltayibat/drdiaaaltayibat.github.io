@@ -92,7 +92,7 @@ body {
 .Left2 {
     width: 45%;
 }
-.P1 {
+.P {
     background: #F9C846;
     font-weight: 800;
     font-size: 14px;
@@ -102,7 +102,7 @@ body {
     width: 51.1%;
     padding: 0.6% 2%;
 }
-.S1 {
+.S {
     font-weight: 900;
     font-size: 50px;
 }
@@ -147,5 +147,20 @@ body {
 }
 .Left {
     padding-left: 5%;
+    margin-bottom: 2%;
+}
+.Bottom {
+    padding: 9% 5% 0 0;
+}
+.Span {
+    top: 3%;
+    right: 5%;
+}
+.P {
+    width: 190%;
+    padding: 6% 6% 2% 6%;
+}
+.Link {
+    padding: 8% 10%;
 }
 }
