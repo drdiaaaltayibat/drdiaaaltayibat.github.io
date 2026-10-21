@@ -62,7 +62,7 @@ body {
 }
 .Bottom {
     background: #FFF3DC;
-    padding: 2% 15% 2% 0;
+    padding: 2% 13.8% 2% 0;
     position: relative;
     display: flex;
     gap: 5%;
@@ -85,7 +85,7 @@ body {
     border: 2px
     solid #000000;
     top: 5%;
-    right: 14.9%;
+    right: 13.8%;
     transform:
     rotate(-6deg);
 }
