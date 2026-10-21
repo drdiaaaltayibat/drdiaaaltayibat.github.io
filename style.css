@@ -90,6 +90,7 @@ body {
     rotate(-6deg);
 }
 .Left2 {
+    padding-top: 4%;
     width: 45%;
 }
 .P {
@@ -114,7 +115,7 @@ body {
     solid #F9C846;
 }
 .Links {
-    padding-top: 8%;
+    padding-top: 5%;
 }
 .Link {
     display: inline-flex;
@@ -153,12 +154,19 @@ body {
     padding: 9% 5% 0 0;
 }
 .Span {
-    top: 3%;
+    top: 2.5%;
     right: 5%;
 }
 .P {
     width: 190%;
     padding: 6% 6% 2% 6%;
+}
+.S,.S2 {
+    white-space: nowrap;
+    font-size: 7.5vw;
+}
+.Links {
+    padding-bottom: 18%;
 }
 .Link {
     padding: 8% 10%;
