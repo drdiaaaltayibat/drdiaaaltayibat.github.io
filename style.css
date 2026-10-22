@@ -119,6 +119,7 @@ body {
     align-items: center;
     padding-top: 5%;
     gap: 10px;
+    white-space: nowrap;
 }
 .Link {
     display: inline-flex;
