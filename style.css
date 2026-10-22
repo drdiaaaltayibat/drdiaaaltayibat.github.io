@@ -241,4 +241,11 @@ body {
     align-items: center;
     padding: 8% 10%;
 }
+.BName2 {
+    font-size: 130%;
+}
+.Basic2 {
+    padding: 0 6%;
+    width: 70%;
+}
 }
