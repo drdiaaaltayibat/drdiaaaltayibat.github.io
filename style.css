@@ -170,7 +170,7 @@ body {
 }
 .Basics {
     background: #202020;
-    padding: 8% 14% 8% 0;
+    padding: 5% 14.3% 5% 0;
 }
 .BName {
     padding-bottom: 2%;
@@ -235,6 +235,10 @@ body {
     padding-top: 15%;
 }
 .Link {
+    padding: 8% 10%;
+}
+.Link2 {
+    align-items: center;
     padding: 8% 10%;
 }
 }
